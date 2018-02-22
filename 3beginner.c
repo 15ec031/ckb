@@ -10,7 +10,7 @@ printf("\n%s is a vowel",ch);
 }
 else
 {
-printf("\n%s is a constant,ch");
+printf("\n%s is a constant",ch);
 }
 return 0;
 }
